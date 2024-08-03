@@ -24,7 +24,7 @@ The project includes two video files. These are example used inside the code. Yo
 -----
 
 ## Just test it to LEARN more 
-### one
+### first
 in function ```region_of_interest``` there is a commented code. Uncomment it, then comment the lines #26 to #32. You will see how different cv functions work to show the lines.
 
 ### second
