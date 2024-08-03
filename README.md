@@ -1,5 +1,5 @@
 
-# Lane Detection with CV lib
+# Lane Detection with OpenCV lib
 
 The aim of this project is creating a module to detect lane on the street only using images. For the Image Processing part, [OpenCV](https://opencv.org/) is used. 
 
