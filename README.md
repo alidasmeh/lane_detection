@@ -23,9 +23,10 @@ The project includes two video files. These are example used inside the code. Yo
 
 -----
 
-## Just test it to LEARN more - 1
+## Just test it to LEARN more 
+### one
 in function ```region_of_interest``` there is a commented code. Uncomment it, then comment the lines #26 to #32. You will see how different cv functions work to show the lines.
 
-## Just test it to LEARN more - 2 
+### second
 in the line #66 change the input of ```cv2.VideoCapture``` function to ```road2.mp4```. Then run the code, the result will be so noisy. 
 Then in line #8 try to change ```(5,5)``` to ```(9,9)``` to see how better it will work. This small change makes the image more blurry before further processes. 
